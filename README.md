@@ -1,4 +1,4 @@
-*How to host Simple-Tribute-Page*
+How to host Simple-Tribute-Page
 *You can publish your website live by using github free of cost.
 
 First you have to push your project in github repository by giving particular name.
